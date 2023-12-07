@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujnmaha.
 - 👀 I’m interested in data and its analysis.
-- 🌱 I’m currently learning data analytics and looking forward to make a career out of it.
+- 🌱 I’m currently learning data analytics and looking forward to make a career of it.
 - 📫 You can reach me at maharjansujan08@gmail.com.
   
 <!---
